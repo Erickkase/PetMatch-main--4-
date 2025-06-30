@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/Erickkase/PetMatch-main--4-/advanced-match-service/internal/service"
-	pb "github.com/Erickkase/PetMatch-main--4-/advanced-match-service/proto"
+	"github.com/Erickkase/PetMatch-main--4-/PetMatch-main/advanced-match-service/internal/service"
+	pb "github.com/Erickkase/PetMatch-main--4-/PetMatch-main/advanced-match-service/proto"
 	"google.golang.org/grpc"
 )
 

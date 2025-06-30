@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	pb "github.com/Erickkase/PetMatch-main--4-/advanced-match-service/proto"
+	pb "github.com/Erickkase/PetMatch-main--4-/PetMatch-main/advanced-match-service/proto"
 )
 
 type MatchService struct {
